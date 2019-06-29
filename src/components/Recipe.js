@@ -3,8 +3,7 @@ import { MDBBtn } from "mdbreact";
 import { Link } from "react-router-dom";
 import axios from "axios";
 
-const API_KEY = "99bcd6e86a8a520d822be8b9937aa034";
-// const API_KEY = "368416e6148e654eff591444cf23f22e";
+const API_KEY = "YOUR_API_KEY";
 
 class Recipe extends Component {
   state = {
